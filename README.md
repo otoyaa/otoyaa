@@ -3,7 +3,9 @@
 </p>
 
 **☕  About me**
+<p align="center">
 I'm 12 years old, ripped and currently studying c++ and python.<br><br>
+</p>
 
 **🎧  Spotify**
 <p align="center">
