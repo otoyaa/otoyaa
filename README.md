@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    Fluent in Portuguese (native), 日本語, and English.
+    Languages Portuguese (native), 日本語, and English.
 </p>
 
 <br>
