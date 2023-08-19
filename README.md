@@ -6,4 +6,6 @@
 I'm 12 years old, ripped and currently studying c++ and python.<br><br>
 
 **🎧  Spotify**
+<p align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=213r7mjjwbaxxl6qv7nrlcapa)
+</p>
