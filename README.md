@@ -5,7 +5,7 @@
 <h2 align="center">🌟  About Me</h2>
 
 <p align="center">
-    Hello there! I'm a 12-year-old with a passion for coding, currently exploring the realms of C++ and Python. 🚀
+    Hello there! I'm a 3-year-old with a passion for computer science, currently exploring the realms of C++ 🚀
 </p>
 
 <p align="center">
